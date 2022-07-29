@@ -39,11 +39,10 @@ Full Stack Developer | Cyber Security Enthusiast
 <!--START_SECTION:waka-->
 
 ```text
-XML                    4 hrs 49 mins   ████████████▓░░░░░░░░░░░░   51.27 %
-Kotlin                 4 hrs 32 mins   ████████████░░░░░░░░░░░░░   48.21 %
-Groovy                 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Properties             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+XML      4 hrs 47 mins   ████████████▓░░░░░░░░░░░░   50.41 %
+Kotlin   4 hrs 22 mins   ███████████▓░░░░░░░░░░░░░   46.00 %
+Groovy   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Java     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
