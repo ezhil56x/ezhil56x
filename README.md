@@ -39,7 +39,10 @@ Full Stack Developer | Cyber Security Enthusiast
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+HTML         1 hr 1 min      ████████████░░░░░░░░░░░░░   47.78 %
+JavaScript   43 mins         ████████▓░░░░░░░░░░░░░░░░   34.03 %
+CSS          23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
