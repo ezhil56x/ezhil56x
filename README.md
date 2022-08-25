@@ -7,7 +7,6 @@ Full Stack Developer | Cyber Security Enthusiast
 * 🌍  I'm based in Chennai, Tamil Nadu, India
 * 🖥️  See my portfolio at [Ezhil](http://ezhil.netlify.app)
 * ✉️  You can contact me at [ezhil56x.contact@gmail.com](mailto:ezhil56x.contact@gmail.com)
-* 🧠  I'm currently learning Kotlin
 
 ### Skills
 
@@ -23,6 +22,8 @@ Full Stack Developer | Cyber Security Enthusiast
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
