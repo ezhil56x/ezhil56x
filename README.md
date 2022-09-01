@@ -40,8 +40,9 @@ Full Stack Developer | Cyber Security Enthusiast
 <!--START_SECTION:waka-->
 
 ```text
-Java   19 mins         ███████████████████████▒░   92.67 %
-C++    1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+C      1 hr 26 mins    ███████████████████▓░░░░░   78.18 %
+Java   22 mins         █████░░░░░░░░░░░░░░░░░░░░   20.42 %
+C++    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
