@@ -40,7 +40,7 @@ Full Stack Developer | Cyber Security Enthusiast
 <!--START_SECTION:waka-->
 
 ```text
-C   1 hr 6 mins     █████████████████████████   100.00 %
+C   56 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
