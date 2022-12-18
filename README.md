@@ -40,12 +40,11 @@ Full Stack Developer | Cyber Security Enthusiast
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 10 mins    ███████▓░░░░░░░░░░░░░░░░░   30.70 %
-Kotlin       1 hr 8 mins     ███████▒░░░░░░░░░░░░░░░░░   29.49 %
-XML          53 mins         ██████░░░░░░░░░░░░░░░░░░░   23.39 %
-HTML         33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+JavaScript   1 hr 10 mins    ████████░░░░░░░░░░░░░░░░░   32.02 %
+Kotlin       1 hr 5 mins     ███████▒░░░░░░░░░░░░░░░░░   29.56 %
+XML          49 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
+HTML         33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
