@@ -40,12 +40,12 @@ Full Stack Developer | Cyber Security Enthusiast
 <!--START_SECTION:waka-->
 
 ```text
-Python           1 hr 7 mins     ████████████▓░░░░░░░░░░░░   51.15 %
-Groovy           28 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
-Git Config       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Properties       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-PowerShell       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Gradle           5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Python           1 hr 17 mins    █████████████▓░░░░░░░░░░░   54.26 %
+Groovy           28 mins         █████░░░░░░░░░░░░░░░░░░░░   20.21 %
+Git Config       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Properties       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+PowerShell       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Gradle           5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
