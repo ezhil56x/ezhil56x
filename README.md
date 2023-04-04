@@ -40,12 +40,12 @@ Full Stack Developer | Cyber Security Enthusiast
 <!--START_SECTION:waka-->
 
 ```text
-Python       25 hrs 50 mins  ███████████████████▒░░░░░   77.40 %
-HTML         6 hrs 16 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
-Kotlin       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Markdown     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Python                 25 hrs 29 mins  ███████████████████▒░░░░░   76.97 %
+HTML                   6 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
+Kotlin                 29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Markdown               19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+JSON                   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Other                  8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
