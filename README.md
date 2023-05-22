@@ -1,5 +1,3 @@
-======================
-
 Full Stack Developer | Cyber Security Enthusiast
 ------------------------------------------------
 
