@@ -1,4 +1,4 @@
-Hi 👋, Welcome!
+Welcome !
 ======================
 
 Full Stack Developer | Cyber Security Enthusiast
