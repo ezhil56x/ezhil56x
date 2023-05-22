@@ -1,4 +1,4 @@
-Hey 👋 My name is Ezhil
+Hello 👋
 ======================
 
 Full Stack Developer | Cyber Security Enthusiast
