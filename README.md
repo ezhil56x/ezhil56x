@@ -39,11 +39,11 @@ Full Stack Developer | Cyber Security Enthusiast
 <!--START_SECTION:waka-->
 
 ```txt
-Python     2 hrs 7 mins    ████████████▓░░░░░░░░░░░░   50.19 %
-Java       1 hr 3 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
-Text       26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-INI        21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-HTML       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Python       4 hrs 2 mins    █████████████▓░░░░░░░░░░░   54.29 %
+HTML         1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
+Java         1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+Text         32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+INI          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 ```
 
 <!--END_SECTION:waka-->
