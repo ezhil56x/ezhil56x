@@ -39,9 +39,7 @@ Full Stack Developer | Cyber Security Enthusiast
 <!--START_SECTION:waka-->
 
 ```txt
-Text   21 mins         ████████████████████████░   96.01 %
-Bash   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-C      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Text   19 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
