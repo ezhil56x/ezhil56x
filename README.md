@@ -39,10 +39,11 @@ Full Stack Developer | Cyber Security Enthusiast
 <!--START_SECTION:waka-->
 
 ```txt
-PHP      16 mins         ████████████████████▒░░░░   81.07 %
-Ezhil    2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
-Other    1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+PHP            16 mins         ████████████████████░░░░░   80.09 %
+Ezhil          2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Other          1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Go             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+ActionScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
