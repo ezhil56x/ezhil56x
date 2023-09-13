@@ -39,9 +39,8 @@ Full Stack Developer | Cyber Security Enthusiast
 <!--START_SECTION:waka-->
 
 ```txt
-Go             0 secs          █████████████░░░░░░░░░░░░   51.92 %
-ActionScript   0 secs          ███████░░░░░░░░░░░░░░░░░░   27.41 %
-Python         0 secs          █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
+Go             0 secs          ████████████████▒░░░░░░░░   65.45 %
+ActionScript   0 secs          ████████▓░░░░░░░░░░░░░░░░   34.55 %
 ```
 
 <!--END_SECTION:waka-->
