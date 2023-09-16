@@ -39,8 +39,9 @@ Full Stack Developer | Cyber Security Enthusiast
 <!--START_SECTION:waka-->
 
 ```txt
-PHP   8 mins          ████████████████████████▓   99.10 %
-CSS   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+PHP    8 mins          ██████████████████░░░░░░░   71.42 %
+Bash   3 mins          ███████░░░░░░░░░░░░░░░░░░   27.93 %
+CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
