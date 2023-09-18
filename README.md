@@ -39,11 +39,11 @@ Full Stack Developer | Cyber Security Enthusiast
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   19 mins         ████████████▓░░░░░░░░░░░░   50.42 %
-PHP          8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
-JSON         7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
-Bash         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+JavaScript   19 mins         ████████████░░░░░░░░░░░░░   48.66 %
+PHP          8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
+JSON         7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+Bash         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Python       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:waka-->
