@@ -39,11 +39,11 @@ Full Stack Developer | Cyber Security Enthusiast
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     20 hrs 52 mins  ████████████████████░░░░░   79.55 %
-PHP            1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-Bash           1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-JavaScript     58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-XML            41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+TypeScript     12 hrs 23 mins  █████████████████░░░░░░░░   67.95 %
+JavaScript     1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+PHP            1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Bash           1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+XML            41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 ```
 
 <!--END_SECTION:waka-->
