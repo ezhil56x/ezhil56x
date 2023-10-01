@@ -22,11 +22,11 @@ Full Stack Developer | Open Source ❤️
 <!--START_SECTION:waka-->
 
 ```txt
-PHP            6 hrs 54 mins   █████████████▒░░░░░░░░░░░   53.22 %
-Docker         1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
-JavaScript     1 hr 32 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-XML            41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-YAML           40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+PHP            6 hrs 54 mins   ████████████▒░░░░░░░░░░░░   49.32 %
+Docker         2 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+JavaScript     1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
+Bash           44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+YAML           40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 ```
 
 <!--END_SECTION:waka-->
