@@ -11,7 +11,7 @@ Full Stack Developer | Open Source ❤️
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,kotlin,js,php,html,css,bootstrap,react,nextjs,jquery,flask,nodejs,express,mysql,postgres,mongodb,aws,firebase,vercel,cloudflare,jenkins,docker,nginx,figma&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,kotlin,js,php,html,css,bootstrap,react,ts,nextjs,jquery,flask,nodejs,express,mysql,postgres,mongodb,docker,aws,firebase,vercel,cloudflare,jenkins,docker,nginx,figma&theme=dark&perline=15)](https://skillicons.dev)
 
 ### Social
 
