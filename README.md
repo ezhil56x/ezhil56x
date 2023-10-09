@@ -2,7 +2,7 @@ Full Stack Developer | Open Source ❤️
 ------------------------------------------------
 
 * 🌍  I'm based in Chennai, Tamil Nadu, India
-* 🖥️  See my portfolio at [Ezhil](https://ezhil.tk)
+<!---* 🖥️  See my portfolio at [Ezhil](https://ezhil.tk) --->
 * ✉️  You can contact me at [ezhil56x.contact@gmail.com](mailto:ezhil56x.contact@gmail.com)
 <br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezhil56x&label=Profile%20views&color=0e75b6&style=flat" alt="ezhil56x" /> </p>
