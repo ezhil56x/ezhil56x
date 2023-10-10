@@ -22,11 +22,11 @@ Full Stack Developer | Open Source ❤️
 <!--START_SECTION:waka-->
 
 ```txt
-Python                 3 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
-YAML                   3 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
-Kotlin                 3 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
-PHP                    3 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
-Text                   1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+YAML                   3 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
+Kotlin                 3 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
+PHP                    3 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
+JavaScript             1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+Text                   1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
 ```
 
 <!--END_SECTION:waka-->
