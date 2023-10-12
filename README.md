@@ -15,7 +15,48 @@ Full Stack Developer | Open Source ❤️
 
 ### Social
 
-<p align="left"><a href="https://discord.com/users/E Z H I L#5380" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="36" height="36" /></a> <a href="https://www.github.com/ezhil56x" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" /></a> <a href="http://www.instagram.com/ezhil56x" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="36" height="36" /></a> <a href="https://www.linkedin.com/in/ezhilshanmugham" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="36" height="36" /></a> <a href="https://www.twitter.com/ezhil56x" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="36" height="36" /></a></p>
+<p align="left">
+	<a href="https://discord.com/users/ezhil56x" target="_blank" rel="noreferrer"
+		><img
+			src="https://skillicons.dev/icons?i=discord&theme=dark"
+			width="36"
+			height="36"
+	/></a>
+	<a href="https://www.github.com/ezhil56x" target="_blank" rel="noreferrer"
+		><img
+			src="https://skillicons.dev/icons?i=github&theme=dark"
+			width="36"
+			height="36"
+	/></a>
+	<a href="https://git.selfmade.ninja/ezhil930" target="_blank" rel="noreferrer"
+		><img
+			src="https://skillicons.dev/icons?i=git&theme=dark"
+			width="36"
+			height="36"
+	/></a>
+	<a href="http://www.instagram.com/ezhil56x" target="_blank" rel="noreferrer"
+		><img
+			src="https://skillicons.dev/icons?i=instagram&theme=dark"
+			width="36"
+			height="36"
+	/></a>
+	<a
+		href="https://www.linkedin.com/in/ezhilshanmugham"
+		target="_blank"
+		rel="noreferrer"
+		><img
+			src="https://skillicons.dev/icons?i=linkedin&theme=dark"
+			width="36"
+			height="36"
+	/></a>
+	<a href="https://www.twitter.com/ezhil56x" target="_blank" rel="noreferrer"
+		><img
+			src="https://skillicons.dev/icons?i=twitter&theme=dark"
+			width="36"
+			height="36"
+	/></a>
+</p>
+
 
 ### Last 7 Days
 
