@@ -63,11 +63,11 @@ Full Stack Developer | Open Source ❤️
 <!--START_SECTION:waka-->
 
 ```txt
-PHP             14 hrs 11 mins  ██████████████████▒░░░░░░   72.97 %
-Python          3 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   19.55 %
-Markdown        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Apache Config   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-XML             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+PHP             12 hrs 23 mins  ██████████████████▒░░░░░░   72.95 %
+Python          3 hrs 48 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
+Other           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+XML             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Apache Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
