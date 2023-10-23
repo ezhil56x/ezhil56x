@@ -1,9 +1,5 @@
-Full Stack Developer | Open Source ❤️
-------------------------------------------------
+![Header](./header.png)
 
-<!---* 🌍  I'm based in Chennai, Tamil Nadu, India --->
-<!---* 🖥️  See my portfolio at [Ezhil](https://ezhil.tk) --->
-<!---* ✉️  You can contact me at [ezhil56x.contact@gmail.com](mailto:ezhil56x.contact@gmail.com) --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezhil56x&label=Profile%20views&color=0e75b6&style=flat" alt="ezhil56x" /> </p>
 
 [![wakatime](https://wakatime.com/badge/user/e780b5d2-6a76-4fde-a594-4ff159327ad3.svg)](https://wakatime.com/@e780b5d2-6a76-4fde-a594-4ff159327ad3)
@@ -56,7 +52,6 @@ Full Stack Developer | Open Source ❤️
 	/></a>
 </p>
 
-
 ### Last 7 Days
 
 <!--START_SECTION:waka-->
@@ -70,6 +65,7 @@ Python           15 mins         ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
 ### Github Stats
 
 ![Ezhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezhil56x&theme=dark&show_icons=true)
