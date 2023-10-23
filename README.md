@@ -62,11 +62,11 @@ Full Stack Developer | Open Source ❤️
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          13 hrs 7 mins   ████████████████▓░░░░░░░░   67.12 %
-Python       3 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.39 %
-JavaScript   1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-JSON         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+PHP              17 hrs 12 mins  ████████████████████░░░░░   79.60 %
+JavaScript       2 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
+JSON             41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Groovy           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Python           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
