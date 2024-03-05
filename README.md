@@ -52,6 +52,8 @@
 	/></a>
 </p>
 
+<!--START_SECTION:activity-->
+
 ### Last 7 Days
 
 <!--START_SECTION:waka-->
