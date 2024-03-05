@@ -53,6 +53,12 @@
 </p>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/3) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
+2. 💪 Opened PR [#3](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/3) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
+3. 🎉 Merged PR [#2](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/2) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
+4. ❌ Reopened PR [#2](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/2) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
+5. ❌ Closed PR [#2](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/2) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
+<!--END_SECTION:activity-->
 
 ### Last 7 Days
 
