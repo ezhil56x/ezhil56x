@@ -56,11 +56,11 @@
 ### Recent Activty ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/3) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
-2. 💪 Opened PR [#3](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/3) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
-3. 🎉 Merged PR [#2](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/2) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
-4. ❌ Reopened PR [#2](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/2) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
-5. ❌ Closed PR [#2](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/2) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
+1. 🔒 Closed issue [#51](https://github.com/cyscomvit/cyscomvit.github.io/issues/51) in [cyscomvit/cyscomvit.github.io](https://github.com/cyscomvit/cyscomvit.github.io)
+2. 🎉 Merged PR [#3](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/3) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
+3. 💪 Opened PR [#3](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/3) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
+4. 🎉 Merged PR [#2](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/2) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
+5. ❌ Reopened PR [#2](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/2) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
 
 <!--END_SECTION:activity-->
 
