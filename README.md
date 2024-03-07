@@ -56,11 +56,11 @@
 ### Recent Activty ⚡
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#52](https://github.com/cyscomvit/cyscomvit.github.io/issues/52) in [cyscomvit/cyscomvit.github.io](https://github.com/cyscomvit/cyscomvit.github.io)
-2. 🔒 Closed issue [#51](https://github.com/cyscomvit/cyscomvit.github.io/issues/51) in [cyscomvit/cyscomvit.github.io](https://github.com/cyscomvit/cyscomvit.github.io)
-3. 🎉 Merged PR [#3](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/3) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
-4. 💪 Opened PR [#3](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/3) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
-5. 🎉 Merged PR [#2](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/2) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
+1. 🗣 Commented on [#114](https://github.com/daytonaio/daytona/issues/114#issuecomment-1983727413) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
+2. ❗ Opened issue [#52](https://github.com/cyscomvit/cyscomvit.github.io/issues/52) in [cyscomvit/cyscomvit.github.io](https://github.com/cyscomvit/cyscomvit.github.io)
+3. 🔒 Closed issue [#51](https://github.com/cyscomvit/cyscomvit.github.io/issues/51) in [cyscomvit/cyscomvit.github.io](https://github.com/cyscomvit/cyscomvit.github.io)
+4. 🎉 Merged PR [#3](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/3) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
+5. 💪 Opened PR [#3](https://github.com/cyscomvit/cyscom-landing-page-2024/pull/3) in [cyscomvit/cyscom-landing-page-2024](https://github.com/cyscomvit/cyscom-landing-page-2024)
 
 <!--END_SECTION:activity-->
 
