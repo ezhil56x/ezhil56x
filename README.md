@@ -56,11 +56,11 @@
 ### Recent Activty ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/daytonaio/daytona/pull/123#issuecomment-1985542550) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
-2. 💪 Opened PR [#123](https://github.com/daytonaio/daytona/pull/123) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
-3. 🗣 Commented on [#114](https://github.com/daytonaio/daytona/issues/114#issuecomment-1983727413) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
-4. ❗ Opened issue [#52](https://github.com/cyscomvit/cyscomvit.github.io/issues/52) in [cyscomvit/cyscomvit.github.io](https://github.com/cyscomvit/cyscomvit.github.io)
-5. 🔒 Closed issue [#51](https://github.com/cyscomvit/cyscomvit.github.io/issues/51) in [cyscomvit/cyscomvit.github.io](https://github.com/cyscomvit/cyscomvit.github.io)
+1. 🗣 Commented on [#123](https://github.com/daytonaio/daytona/pull/123#issuecomment-1985611244) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
+2. 💪 Opened PR [#130](https://github.com/daytonaio/daytona/pull/130) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
+3. 🗣 Commented on [#123](https://github.com/daytonaio/daytona/pull/123#issuecomment-1985542550) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
+4. 💪 Opened PR [#123](https://github.com/daytonaio/daytona/pull/123) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
+5. 🗣 Commented on [#114](https://github.com/daytonaio/daytona/issues/114#issuecomment-1983727413) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
 
 <!--END_SECTION:activity-->
 
