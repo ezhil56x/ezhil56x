@@ -56,11 +56,11 @@
 ### Recent Activty ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1364](https://github.com/tailcallhq/tailcall/pull/1364) in [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall)
-2. 💪 Opened PR [#154](https://github.com/daytonaio/daytona/pull/154) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
-3. 🗣 Commented on [#84](https://github.com/daytonaio/daytona/issues/84#issuecomment-1986854417) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
-4. 🗣 Commented on [#84](https://github.com/daytonaio/daytona/issues/84#issuecomment-1986796533) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
-5. 🗣 Commented on [#123](https://github.com/daytonaio/daytona/pull/123#issuecomment-1986142317) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
+1. 🗣 Commented on [#1364](https://github.com/tailcallhq/tailcall/pull/1364#issuecomment-1987226709) in [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall)
+2. 💪 Opened PR [#1364](https://github.com/tailcallhq/tailcall/pull/1364) in [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall)
+3. 💪 Opened PR [#154](https://github.com/daytonaio/daytona/pull/154) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
+4. 🗣 Commented on [#84](https://github.com/daytonaio/daytona/issues/84#issuecomment-1986854417) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
+5. 🗣 Commented on [#84](https://github.com/daytonaio/daytona/issues/84#issuecomment-1986796533) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
 
 <!--END_SECTION:activity-->
 
