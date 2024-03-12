@@ -29,12 +29,6 @@
 			width="36"
 			height="36"
 	/></a>
-	<a href="http://www.instagram.com/ezhil56x" target="_blank" rel="noreferrer"
-		><img
-			src="https://skillicons.dev/icons?i=instagram&theme=dark"
-			width="36"
-			height="36"
-	/></a>
 	<a
 		href="https://www.linkedin.com/in/ezhilshanmugham"
 		target="_blank"
