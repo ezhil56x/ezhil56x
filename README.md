@@ -50,11 +50,11 @@
 ### Recent Activty ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#113](https://github.com/scratchdata/scratchdata/pull/113#issuecomment-1995298758) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
-2. 💪 Opened PR [#113](https://github.com/scratchdata/scratchdata/pull/113) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
-3. 🗣 Commented on [#111](https://github.com/scratchdata/scratchdata/issues/111#issuecomment-1995130798) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
-4. 💪 Opened PR [#11](https://github.com/windmill-labs/windmill-community-integrations/pull/11) in [windmill-labs/windmill-community-integrations](https://github.com/windmill-labs/windmill-community-integrations)
-5. 🗣 Commented on [#9](https://github.com/windmill-labs/windmill-community-integrations/issues/9#issuecomment-1994399259) in [windmill-labs/windmill-community-integrations](https://github.com/windmill-labs/windmill-community-integrations)
+1. 🗣 Commented on [#113](https://github.com/scratchdata/scratchdata/pull/113#issuecomment-1995395911) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
+2. 🗣 Commented on [#113](https://github.com/scratchdata/scratchdata/pull/113#issuecomment-1995372174) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
+3. 🗣 Commented on [#113](https://github.com/scratchdata/scratchdata/pull/113#issuecomment-1995298758) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
+4. 💪 Opened PR [#113](https://github.com/scratchdata/scratchdata/pull/113) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
+5. 🗣 Commented on [#111](https://github.com/scratchdata/scratchdata/issues/111#issuecomment-1995130798) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
 
 <!--END_SECTION:activity-->
 
