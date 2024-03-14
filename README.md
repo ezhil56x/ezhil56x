@@ -50,11 +50,11 @@
 ### Recent Activty ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/windmill-labs/windmill-community-integrations/issues/8#issuecomment-1996311630) in [windmill-labs/windmill-community-integrations](https://github.com/windmill-labs/windmill-community-integrations)
-2. 🗣 Commented on [#113](https://github.com/scratchdata/scratchdata/pull/113#issuecomment-1996301863) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
-3. 🗣 Commented on [#113](https://github.com/scratchdata/scratchdata/pull/113#issuecomment-1995395911) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
-4. 🗣 Commented on [#113](https://github.com/scratchdata/scratchdata/pull/113#issuecomment-1995372174) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
-5. 🗣 Commented on [#113](https://github.com/scratchdata/scratchdata/pull/113#issuecomment-1995298758) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
+1. 🗣 Commented on [#113](https://github.com/scratchdata/scratchdata/pull/113#issuecomment-1996313629) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
+2. 🗣 Commented on [#8](https://github.com/windmill-labs/windmill-community-integrations/issues/8#issuecomment-1996311630) in [windmill-labs/windmill-community-integrations](https://github.com/windmill-labs/windmill-community-integrations)
+3. 🗣 Commented on [#113](https://github.com/scratchdata/scratchdata/pull/113#issuecomment-1996301863) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
+4. 🗣 Commented on [#113](https://github.com/scratchdata/scratchdata/pull/113#issuecomment-1995395911) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
+5. 🗣 Commented on [#113](https://github.com/scratchdata/scratchdata/pull/113#issuecomment-1995372174) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
 
 <!--END_SECTION:activity-->
 
