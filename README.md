@@ -50,11 +50,11 @@
 ### Recent Activty ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#219](https://github.com/daytonaio/daytona/issues/219#issuecomment-1999428799) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
-2. 🗣 Commented on [#219](https://github.com/daytonaio/daytona/issues/219#issuecomment-1999414518) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
-3. 🗣 Commented on [#219](https://github.com/daytonaio/daytona/issues/219#issuecomment-1999404942) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
-4. 🗣 Commented on [#113](https://github.com/scratchdata/scratchdata/pull/113#issuecomment-1998743411) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
-5. 🗣 Commented on [#113](https://github.com/scratchdata/scratchdata/pull/113#issuecomment-1998539206) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
+1. 🗣 Commented on [#11](https://github.com/windmill-labs/windmill-community-integrations/pull/11#issuecomment-1999523948) in [windmill-labs/windmill-community-integrations](https://github.com/windmill-labs/windmill-community-integrations)
+2. 🗣 Commented on [#219](https://github.com/daytonaio/daytona/issues/219#issuecomment-1999428799) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
+3. 🗣 Commented on [#219](https://github.com/daytonaio/daytona/issues/219#issuecomment-1999414518) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
+4. 🗣 Commented on [#219](https://github.com/daytonaio/daytona/issues/219#issuecomment-1999404942) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
+5. 🗣 Commented on [#113](https://github.com/scratchdata/scratchdata/pull/113#issuecomment-1998743411) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
 
 <!--END_SECTION:activity-->
 
