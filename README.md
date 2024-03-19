@@ -50,11 +50,11 @@
 ### Recent Activty ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#128](https://github.com/scratchdata/scratchdata/pull/128) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
-2. 🗣 Commented on [#126](https://github.com/scratchdata/scratchdata/issues/126#issuecomment-2006469472) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
-3. 🗣 Commented on [#219](https://github.com/daytonaio/daytona/issues/219#issuecomment-2004232861) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
-4. 🗣 Commented on [#219](https://github.com/daytonaio/daytona/issues/219#issuecomment-2004223866) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
-5. 🗣 Commented on [#1](https://github.com/RaspAP/raspap-balena/issues/1#issuecomment-2001991748) in [RaspAP/raspap-balena](https://github.com/RaspAP/raspap-balena)
+1. 💪 Opened PR [#145243](https://github.com/microsoft/winget-pkgs/pull/145243) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. ❗ Opened issue [#145242](https://github.com/microsoft/winget-pkgs/issues/145242) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+3. 💪 Opened PR [#128](https://github.com/scratchdata/scratchdata/pull/128) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
+4. 🗣 Commented on [#126](https://github.com/scratchdata/scratchdata/issues/126#issuecomment-2006469472) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
+5. 🗣 Commented on [#219](https://github.com/daytonaio/daytona/issues/219#issuecomment-2004232861) in [daytonaio/daytona](https://github.com/daytonaio/daytona)
 
 <!--END_SECTION:activity-->
 
