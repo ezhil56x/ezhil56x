@@ -46,15 +46,9 @@
 	/></a>
 </p>
 
-
 ### Recent Activty ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1522](https://github.com/tailcallhq/tailcall/issues/1522#issuecomment-2009455266) in [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall)
-2. 🗣 Commented on [#55](https://github.com/eronka/culero/issues/55#issuecomment-2009434276) in [eronka/culero](https://github.com/eronka/culero)
-3. 🗣 Commented on [#55](https://github.com/eronka/culero/issues/55#issuecomment-2009430868) in [eronka/culero](https://github.com/eronka/culero)
-4. 🗣 Commented on [#55](https://github.com/eronka/culero/issues/55#issuecomment-2009427349) in [eronka/culero](https://github.com/eronka/culero)
-5. 🗣 Commented on [#128](https://github.com/scratchdata/scratchdata/pull/128#issuecomment-2007854312) in [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata)
 
 <!--END_SECTION:activity-->
 
