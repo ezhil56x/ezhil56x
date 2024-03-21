@@ -46,7 +46,7 @@
 	/></a>
 </p>
 
-### Recent Activty ⚡
+<!-- ### Recent Activty ⚡ -->
 
 <!--START_SECTION:activity-->
 
