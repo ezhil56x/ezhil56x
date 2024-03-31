@@ -6,7 +6,7 @@
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,kotlin,js,php,html,css,bootstrap,react,ts,nextjs,jquery,flask,nodejs,express,mysql,postgres,mongodb,docker,aws,firebase,vercel,cloudflare,jenkins,nginx,figma&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,js,php,html,css,bootstrap,react,ts,nextjs,jquery,flask,nodejs,express,mysql,postgres,mongodb,docker,nginx&theme=dark&perline=15)](https://skillicons.dev)
 
 ### Social
 
