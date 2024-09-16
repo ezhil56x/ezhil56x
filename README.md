@@ -1,5 +1,7 @@
 ![Header](./.github/workflows/header.png)
 
+![Profile Views](https://komarev.com/ghpvc/?username=ezhil56x&label=Profile%20views&&style=flat&abbreviated=true)
+
 [![wakatime](https://wakatime.com/badge/user/e780b5d2-6a76-4fde-a594-4ff159327ad3.svg)](https://wakatime.com/@e780b5d2-6a76-4fde-a594-4ff159327ad3)
 
 > [!NOTE]  
