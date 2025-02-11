@@ -4,7 +4,7 @@
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,java,kotlin,javascript,typescript,php&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,kotlin,javascript,typescript,php,go,rust&theme=dark)](https://skillicons.dev)
 
 ### Frameworks
 
