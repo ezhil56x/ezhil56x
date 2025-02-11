@@ -1,8 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/e780b5d2-6a76-4fde-a594-4ff159327ad3.svg)](https://wakatime.com/@e780b5d2-6a76-4fde-a594-4ff159327ad3)
 
-> [!NOTE]  
-> **Open to internships and freelance work ✨**
-
 ## Tech Stack
 
 ### Languages
