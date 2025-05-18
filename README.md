@@ -24,20 +24,6 @@
 
 ## Stats
 
-### Last 7 Days
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   13 hrs 31 mins  ██████████████████████░░░   88.33 %
-Python       1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-Bash         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-CSS          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-```
-
-<!--END_SECTION:waka-->
-
 ### GitHub Stats
 
 ![Ezhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezhil56x&theme=dark&show_icons=true)
