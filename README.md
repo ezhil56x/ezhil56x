@@ -22,8 +22,6 @@
 
 [![Operating Systems](https://skillicons.dev/icons?i=windows,ubuntu&theme=dark)](https://skillicons.dev)
 
-## Stats
-
 ### GitHub Stats
 
 ![Ezhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezhil56x&theme=dark&show_icons=true)
